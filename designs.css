@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: flex-end;
 }
+
 #list-item1, #list-item2{
     margin-right: 14px;
 }
@@ -57,4 +58,28 @@ img {
     width: 638px;
     max-width: 584px;
     margin-top: 20px;
+    text-indent: 20px;
+    padding-left: 45px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+input[type=text]:focus {
+    caret-color: grey;
+    text-indent:20px;
+    outline: none;
+}
+
+.input-icons {
+    position: absolute;
+    padding-left: 380px;
+    padding-top: 13px;
+    color: grey;
+}
+
+[placeholder]:focus::-webkit-input-placeholder {
+    opacity: 0;
 }
