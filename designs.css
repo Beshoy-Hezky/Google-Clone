@@ -32,6 +32,15 @@ a:active {
     text-decoration: none;
 }
 
+img {
+    height: 92px;
+    aspect-ratio: auto 272 / 92;
+}
 
 
-
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 55px;
+}
