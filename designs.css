@@ -113,4 +113,28 @@ input[type=text]:focus {
     display: flex;
     flex-direction: row;
     justify-content: center;
+
+}
+
+.mic_icon {
+    height: 24px;
+    width: 24px;
+    left: 519px;
+    bottom: 18px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+
+}
+
+.camera_icon{
+    height: 22px;
+    width: 22px;
+    left: 569px;
+    bottom: 41px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
 }
