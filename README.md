@@ -14,4 +14,4 @@ A working clone for Google search, Google image search, and Google Advanced Sear
 - | 09 | Link buttons for normal search       | 22-5-2023  | 22-5-2023 |  Complete   |
 - | 10 | Link button for image search         | 22-5-2023  | 22-5-2023 |  Complete   |
 - | 11 | Link button for Advanced search      | 22-5-2023  | 22-5-2023 |  Complete   |
-- | 12 | Advanced Search page                 | 24-5-2023  |           |  Incomplete |
+- | 12 | Advanced Search page                 | 24-5-2023  | 25-5-2023 |  Complete   |
